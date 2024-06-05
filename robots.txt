@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://methodical-life-036075.framer.app/sitemap.xml
